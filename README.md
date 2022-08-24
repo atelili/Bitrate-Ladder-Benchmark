@@ -4,7 +4,7 @@
 Benchmarking Learning-based Bitrate Ladder Prediction Methods for Adaptive Video Streaming
 
 <p align="center">
-  <img src="https://github.com/Tlili-ahmed/2BiVQA/blob/master/figures/2BiVQA_overview2.drawio.png">
+  <img src="https://github.com/atelili/Bitrate-Ladder-Benchmark/blob/master/Figures/overview_v5.pdf">
 </p>
 
 
