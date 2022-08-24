@@ -13,7 +13,6 @@ If you use any of our code, please cite:
 @article{Telili2022,
   title = {Benchmarking Learning-based Bitrate Ladder Prediction Methods for Adaptive Video Streaming},
   author = {Ahmed Telili, Wassim Hamidouche, Sid Ahmed Fezza, and Luce Morin},
-  booktitle={IEEE TRANSACTIONS ON IMAGE PROCESSING},
   year = {2022}
 }
 ```
