@@ -77,9 +77,9 @@ Training can be started by importing Bitrate_Ladder.ipynb in Google Colab or Jup
 python train.py  [-h] [-v 'path to raw videos directory']
                                    [-np 'number of patches']
                                    [-nf 'number of frames']
-                                   [-b 'batch_size (1)']```
+                                   [-b 'batch_size (1)']
 
-
+```
 
 
 ## Performance Benchmark:
