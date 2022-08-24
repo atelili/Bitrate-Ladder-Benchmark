@@ -21,11 +21,11 @@ If you use any of our code, please cite:
 
   * [Requirements](#requirements)
   * [Features extraction](#features-extraction)
-      * [Handcrafted features]
-      * [Deep features]
+      * [Handcrafted features](#handcrafted-features)
+      * [Deep features](#deep-features)
   * [Model Training](#model-training)
-      * [Handcrafted features-based models]
-      * [Deep features-based models]
+      * [Handcrafted features based models](#handcrafted-features-based-models)
+      * [Deep features based models](#deep-features-based-models)
 
   * [Performance Benchmark](#performance-benchmark)
  
