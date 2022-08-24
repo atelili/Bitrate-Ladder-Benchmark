@@ -4,9 +4,8 @@
 Benchmarking Learning-based Bitrate Ladder Prediction Methods for Adaptive Video Streaming
 
 <p align="center">
-  <img src="https://github.com/atelili/Bitrate-Ladder-Benchmark/blob/master/Figures/overview_v5.png">
+  <img src="https://github.com/atelili/Bitrate-Ladder-Benchmark/blob/master/Figures/overview.png">
 </p>
-
 
 This repository contains the code for our paper on [Benchmarking Learning-based Bitrate Ladder Prediction Methods for Adaptive Video Streaming](#benchmarking_learning-based_bitrate_ladder_prediction_methods_for_adaptive_video_streaming). 
 If you use any of our code, please cite:
