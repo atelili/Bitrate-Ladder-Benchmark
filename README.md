@@ -50,14 +50,14 @@ python features_extration  [-h] [-r 'path to raw videos directory']
                                    [-o 'overlapping between patches']
 ```
 #### b- Deep features:
-
+```
 python features_extration  [-h] [-v 'path to raw videos directory']
                                    [-f 'path to meta-data csv file']
                                    [-np 'number of patches']
                                    [-nf 'number of frames']
                                    [-m 'backbone model']
                                    [-o 'overlapping between patches']
-
+```
 Please note that we provide four pretrained backbone models for features extraction: resnet50, densenet169, vgg16 and inception_v3.
 
 
