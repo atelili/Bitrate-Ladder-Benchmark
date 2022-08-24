@@ -4,7 +4,7 @@
 Benchmarking Learning-based Bitrate Ladder Prediction Methods for Adaptive Video Streaming
 
 <p align="center">
-  <img src="https://github.com/atelili/Bitrate-Ladder-Benchmark/blob/master/Figures/overview_v5.pdf">
+  <img src="https://github.com/atelili/Bitrate-Ladder-Benchmark/blob/master/Figures/overview_v5.png">
 </p>
 
 
@@ -43,14 +43,14 @@ pip install -r requirements.txt
 
 ## Features extraction
 
-#### a-Handcrafted features:
+#### a- Handcrafted features:
 
 ```
 python features_extration  [-h] [-r 'path to raw videos directory']
                                    [-f 'path to meta-data csv file']
                                    [-o 'overlapping between patches']
 ```
-#### b-Deep features:
+#### b- Deep features:
 
 python features_extration  [-h] [-v 'path to raw videos directory']
                                    [-f 'path to meta-data csv file']
@@ -66,12 +66,12 @@ Please note that we provide four pretrained backbone models for features extract
 
 ## Model Training :
 
-#### a-Handcrafted features:
+#### a- Handcrafted features:
 
 
 Training can be started by importing Bitrate_Ladder.ipynb in Google Colab or Jupyter Notebook.
 
-#### b-Deep features:
+#### b- Deep features:
 
 ```python
 python train.py  [-h] [-v 'path to raw videos directory']
