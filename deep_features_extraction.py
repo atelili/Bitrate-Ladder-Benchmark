@@ -328,8 +328,7 @@ if __name__ == '__main__':
 	if not os.path.exists('./label'):
 		os.makedirs('./label')
 
-	#li = prepare_datalist(path_to_csv = args.csv_file , videos_dir= args.video_dir)
-	li = [['./videos/CityAlley_1920x1080_8bit_420_60fps_frames1-64.yuv', 2,5,7]]
+	li = prepare_datalist(path_to_csv = args.csv_file , videos_dir= args.video_dir)
 
 
 	
