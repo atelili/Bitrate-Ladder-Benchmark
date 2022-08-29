@@ -1,7 +1,7 @@
 """
 Usage:
     python features_extration -r (raw videos directory) 
-    all videos must be 420p10 yuv format
+    all videos must be 420 yuv format
 Author : 
     Ahmed Telili
 """
